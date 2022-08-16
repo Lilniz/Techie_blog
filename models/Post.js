@@ -3,8 +3,6 @@ const sequelize = require('../config/connection');
 
 class Post extends Model {}
 
-// title, contents, post creator’s username, and date
-
 Post.init(
   {
     id: {
