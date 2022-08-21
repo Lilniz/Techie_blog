@@ -54,13 +54,11 @@ router.get('/profile', withAuth, async (req, res) => {
       }
     });
     const posts = userData.map((post) => post.get({ plain: true }));
-    console.log(posts)
     res.render('profile', {
-      posts,
+      ...posts,
       logged_in: true
     });
   } catch (err) {
-    console.log(err)
     res.status(500).json(err);
   }
 });
