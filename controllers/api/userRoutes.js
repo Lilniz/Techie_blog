@@ -18,7 +18,7 @@ router.post('/', async (req, res) => {
 });
 
 router.post('/login', async (req, res) => {
-  console.log(req.body.email);
+  console.log(req.body.name);
   console.log(req.body.password);
   console.log('hello world')
 	try {
