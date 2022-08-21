@@ -6,6 +6,6 @@ There is still more to improve upon, but this is my first attempt!
 
 [Finished Application/Techie Blog!](https://lilniz.github.io/Techie_blog/)
 
-All code is displayed above!
+All code is displayed above!!
 
 ![Application/Techie Blog](images/test-sshot.png)
