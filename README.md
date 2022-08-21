@@ -4,7 +4,7 @@ These files will show the devloping skills of creating code within JavaScript, H
 
 There is still more to improve upon, but this is my first attempt!
 
-[Finished Application/Techie Blog!](https://lilniz.github.io/Techie_blog/)
+[Finished Application/Techie Blog!](https://techie-blogger.herokuapp.com/)
 
 All code is displayed above!
 
